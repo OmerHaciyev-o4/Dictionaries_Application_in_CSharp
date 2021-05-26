@@ -1,0 +1,16 @@
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.exe
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.deps.json
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.json
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.dev.json
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.dll
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\ref\Dictionaries.dll
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.pdb
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.csprojAssemblyReference.cache
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.dll
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\ref\Dictionaries.dll
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.pdb
+C:\Users\Omero4\source\repos\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.genruntimeconfig.cache
